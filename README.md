@@ -1,5 +1,4 @@
 # FeastFinder
-### Project Description for FeastFinder
 
 **FeastFinder** is a user-friendly web application designed to streamline the online ordering experience for food enthusiasts. The platform features a well-organized menu showcasing a variety of delicious dishes across different categories, including breakfast, lunch, dinner, and desserts.
 
